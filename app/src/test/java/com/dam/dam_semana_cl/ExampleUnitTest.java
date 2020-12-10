@@ -1,4 +1,4 @@
-package com.example.dam_cl;
+package com.dam.dam_semana_cl;
 
 import org.junit.Test;
 

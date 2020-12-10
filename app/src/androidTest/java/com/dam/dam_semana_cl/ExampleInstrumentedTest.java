@@ -1,4 +1,4 @@
-package com.example.dam_cl;
+package com.dam.dam_semana_cl;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.dam_cl", appContext.getPackageName());
+        assertEquals("com.dam.dam_semana_cl", appContext.getPackageName());
     }
 }
